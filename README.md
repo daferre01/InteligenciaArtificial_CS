@@ -8,10 +8,6 @@
 
 2. **Programación de IA**
 
-3. **Big Data Aplicado**
-
-4. **Sistemas de Big Data**
-
 5. **Modelos de IA**
 
 
@@ -27,6 +23,6 @@ Si eres nuevo/a en el campo de la IA o buscas una referencia rápida, estos apun
 
 Este proyecto está bajo la licencia [MIT](LICENSE), lo que significa que puedes utilizar, modificar y compartir estos apuntes según tus necesidades.
 
-¡Esperamos que encuentres estos apuntes útiles en tu viaje hacia el mundo fascinante de la Inteligencia Artificial y el Big Data!
+¡Esperamos que encuentres estos apuntes útiles en tu viaje hacia el mundo fascinante de la Inteligencia Artificial!
 
 ¡Feliz aprendizaje!
